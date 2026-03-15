@@ -14,8 +14,6 @@
 
 We work with businesses that need more than a one-off service. Our clients get a complete system: attract, convert, and close — on autopilot.
 
-**remove this after thats it its just for commit to get green dot**
-
 ---
 
 ## Industries We Serve
