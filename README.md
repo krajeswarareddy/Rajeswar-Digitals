@@ -8,8 +8,6 @@
 
 ---
 
-**remove this on 25th april 2026**
-
 ## What We Do
 
 **Rajeswar Digitals** partners with local businesses to build end-to-end digital growth systems — combining paid advertising, conversion-focused web design, and AI-powered lead follow-up into a single, managed solution.
